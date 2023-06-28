@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "bare-minimum-test",
+    "slug": "bare-minimum-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

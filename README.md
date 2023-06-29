@@ -10,10 +10,12 @@ Everything works, until we start using `Authenticator`.
 npx jest src/__tests__/render-works.test.tsx
 ```
 
-## Failing run with `Authenticator`
+## Failing run with `Authenticator` 
 ```
 npx jest src/__tests__/render-fails.test.tsx
 ```
+
+**UPD** After applying advice from [the issue](https://github.com/aws-amplify/amplify-ui/issues/4181) it started to work ✅.
 
 On the first run it fails with:
 ```
